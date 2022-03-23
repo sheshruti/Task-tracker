@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "text": "Hello",
+      "date": "Today",
+      "time": "Now",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": ";)",
+      "date": "Everyday",
+      "time": "Always",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
